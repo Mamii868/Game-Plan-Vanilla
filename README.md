@@ -1,1 +1,1 @@
-# Game-Plan-Vanilla
+# Game-Plan-VanillaJS
